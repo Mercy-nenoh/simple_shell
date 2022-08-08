@@ -33,7 +33,7 @@ char **tokenizer(char *input_string, char *delim)
 
 /**
  *print - prints a string to stdout
- *@string: string to be printed
+ *@string: string that is to be printed
  *@stream: stream to print out to
  *
  *Return: void, return nothing
