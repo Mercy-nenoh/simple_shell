@@ -5,7 +5,7 @@
  *_strtok_r - tokenizes a string
  *@string: string to be tokenized
  *@delim: delimiter to be used to tokenize the string
- *@save_ptr: pointer to be used to keep track of the next token
+ *@save_ptr: pointer to be used to keep tracking of the next token
  *
  *Return: The next available token
  */
