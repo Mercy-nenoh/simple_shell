@@ -2,7 +2,7 @@
 
 /**
  *env - prints the current_environnement
- *@tokenized_command: command that entered
+ *@tokenized_command: command that is entered
  *
  *Return: void
  */
